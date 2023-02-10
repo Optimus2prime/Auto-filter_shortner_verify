@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/SANDY-FM/CALOPY-SANDY",
-    "repository": "https://github.com/SANDY-FM/CALOPY-SANDY",
+    "website": "https://github.com/AadiX11/paidwork",
+    "repository": "https://github.com/AadiX11/paidwork",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -70,11 +70,11 @@
         },
         "FILE_CHANNEL": {
             "description": "File REDIRECT TO , give Channel id for redirect file eg:-100xxxxxxx.",
-            "required": true
+            "required": false
         },
         "DELETE_CHANNELS": {
              "description": "Delete Multiple files from db, channel id -100xxxxxxxx.",
-             "required": true
+             "required": false
         }
     },
     "addons": [],
